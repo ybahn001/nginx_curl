@@ -1,5 +1,5 @@
 # nginx_curl
-시험문제 제출용_ nginx와 curl을 centos 기반으로 만들기
+시험문제 제출용_ tree와 curl와 net-tools을 ubntu 기반으로 만들기
 
 # dockerfiles-ubuntu-user-adderable-nginx test
 ubuntu, It support base user creation and password setting.
