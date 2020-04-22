@@ -66,7 +66,7 @@ To test, ("ybahn" is username. )
 ```
 Github에 이미지 올리기
 ```
-cd
+cd nginx_curl
 git add -A
 git commit -m "add nginx_curl and etc"
 git push
